@@ -1,0 +1,4 @@
+name: appmap-demo-main
+packages:
+- path: com.javatechie
+- path: com.javatechie.controller.impl

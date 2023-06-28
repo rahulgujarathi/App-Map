@@ -1,0 +1,1 @@
+Syntax error found near VALUES Clause (SELECT Statement): insert into employee (id, dept, name, salary) values (default, ?, ?, ?)
